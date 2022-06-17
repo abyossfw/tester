@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+	<style> 
+		body{
+
+background-image:url(rtx.png);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+
+		}
+
+
+	</style>
+
+	<link rel="shortcut icon" type="x-icon" href="spacexe.png">
+	<style>
+		button
+		{
+			font-size:50px;
+			border-radius:10px;
+		}
+		#photo
+		{
+			text-align:center;
+		}
+	</style>
+<title>photo S</title>
+<body style="background-color:#313B62;">
+	<div id="photo">
+	<body>
+		<button onclick="doSomething()" style="background-color:#333333;color:#00FF00;border-radius:5px">LERN MORE</button>
+        
+        <p id="test">..........................................................................</p>
+
+        <script>
+            function doSomething(){
+                document.getElementById("test").innerHTML = "this wibsite is made to see photos taken with cameras and other cool things made by mohammad fadel talafha";
+            }
+        </script>
+</body>
+			
+	
+	</div>
+	<div id="tefo">
+	<a href="https://www.instagram.com/mohammad_fadel_talafha/">
+		<button style="background-color:#333333;color:#FFC74F;">INSTGRAM</button>
+	</a>
+	</div>
+
+
+	<div id="tefo">
+	<a href="https://www.facebook.com/profile.php?id=100001231888923">
+		<button style="background-color:#333333;color:#079FD1;">FACEBOOK</button>
+	</a>
+	</div>
+	<h1>mohammad fadel talafha</h1>
+
+</head>
+</body>
+</html>
